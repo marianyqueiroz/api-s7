@@ -1,0 +1,62 @@
+[
+    {
+        "banda": "O Terno",
+        "inicio": 2009,
+        "gênero": "Indie",
+        "música preferida": "Volta"
+    },
+    {
+        "banda": "Carne Doce",
+        "inicio": 2013,
+        "gênero": "Rock",
+        "música preferida": "Artemísia" 
+    },
+    {
+        "banda": "Selvagens à Procura da Lei",
+        "inicio": 2009,
+        "gênero": "Indie",
+        "música preferida": "Despedida" 
+    },
+    {
+        "banda": "Los Hermanos",
+        "inicio": 1997,
+        "gênero": "Indie Rock",
+        "música preferida": "Sentimental" 
+    },
+    {
+        "banda": "Banda do Mar",
+        "inicio": 2014,
+        "gênero": "MPB",
+        "música preferida": "Dia Clarear" 
+    },
+    {
+        "banda": "5 a Seco",
+        "inicio": 2009,
+        "gênero": "Indie",
+        "música preferida": "Feliz pra Cachorro" 
+    },
+    {
+        "banda": "A Banda Mais Bonita da Cidade",
+        "inicio": 2009,
+        "gênero": "MPB",
+        "música preferida": "Uma Atriz" 
+    },
+    {
+        "banda": "O Teatro Mágico",
+        "inicio": 2003,
+        "gênero": "Indie",
+        "música preferida": "Ana e o Mar" 
+    },
+    {
+        "banda": "Apanhador Só",
+        "inicio": 2005,
+        "gênero": "Indie Rock",
+        "música preferida": "Cartão Postal" 
+    },
+    {
+        "banda": "Vanguart",
+        "inicio": 2002,
+        "gênero": "MPB",
+        "música preferida": "Demorou pra Ser" 
+    }
+]

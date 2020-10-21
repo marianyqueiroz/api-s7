@@ -1,0 +1,52 @@
+[
+    {
+        "filme": "Eternal Sunshine of the Spotless Mind",
+        "lançamento": "23 de julho de 2004",
+        "direção": "Michel Gondry"
+    },
+    {
+        "filme": "The Truman Show",
+        "lançamento": "30 de outubro de 1998",
+        "direção": "Peter Weir"
+    },
+    {
+        "filme": "Dead Poets Society",
+        "lançamento": "28 de fevereiro de 1990",
+        "direção": "Peter Weir"
+    },
+    {
+        "filme": "O Poço",
+        "lançamento": "21 de fevereiro de 2020",
+        "direção": "Galder Gaztelu-Urrutia"
+    },
+    {
+        "filme": "I'm Thinking of Ending Things",
+        "lançamento": "4 de setembro de 2020",
+        "direção": "Charlie Kaufman"   
+    },
+    {
+        "filme": "Peles",
+        "lançamento": "11 de fevereiro de 2017",
+        "direção": "Eduardo Casanova"   
+    },
+    {
+        "filme": "El Laberinto del Fauno",
+        "lançamento": "1 de dezembro de 2006",
+        "direção": "Guillermo del Toro" 
+    },
+    {
+        "filme": "A Colina Escarlate",
+        "lançamento": "15 de outubro de 2015",
+        "direção": "Guillermo del Toro" 
+    },
+    {
+        "filme": "Run",
+        "lançamento": "18 de maio de 2017",
+        "direção": "Jordan Peele" 
+    },
+    {
+        "filme": "Aquarius",
+        "lançamento": "1 de setembro de 2016",
+        "direção": "Kleber Mendonça Filho"
+    }
+]
